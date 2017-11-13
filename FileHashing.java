@@ -1,5 +1,3 @@
-package com.test;
-
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
