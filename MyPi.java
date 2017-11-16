@@ -6,6 +6,7 @@ public class MyPi {
 		Scanner in = new Scanner(System.in);
 		int n = in.nextInt();
 		System.out.println(String.valueOf(computePi(n)));
+		in.close();
 	}
 	
 	public static double computePi(int n) {
